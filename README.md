@@ -17,6 +17,6 @@ jeju_place_en(영어)
 jeju_place_ko(한국어)
 
 # 한국어 사전 (전처리)
-korean_lexicon
+korean_lexicon - KNU 한국어 감성사전을 이용해서 구축
 # 워드클라우드와 단어 빈도를 막대그래프로 시각화
 visualization
